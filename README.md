@@ -10,7 +10,7 @@ Every prompt here was published by its creator on X, and every card links back t
 | Posts with the full prompt | **38** |
 | Creators credited | **31** |
 | Combined views on X | **11.2M** |
-| Last refreshed | 2026-10-02 |
+| Last refreshed | 2026-10-05 |
 
 ## Contents
 
@@ -1411,7 +1411,7 @@ One paragraph: a man walks toward the camera, snaps to freeze pedestrians and pi
 
 You stand still in the middle while a crowd of identical yous moves around you.
 
-4 posts · [Try this effect on Seadanse →](https://seadanse.com/prompts/viral-ai-video-prompts#clones)
+4 posts · [Try this effect on Seadanse →](https://seadanse.com/video-effects/ai-clone-video)
 
 ### STORM trend: a woman in black stands while the crowd moves
 
@@ -1442,7 +1442,7 @@ Dark, cold, mysterious lighting with deep shadows, realistic skin, hair, clothin
 Photorealistic live-action quality, cinematic composition, natural human movement; no animation, CGI look, duplicated woman, distorted bodies, excessive smoke, text, subtitles, or logos.
 ```
 
-[Try it on Seadanse →](https://seadanse.com/prompts/viral-ai-video-prompts#clones)
+[Try it on Seadanse →](https://seadanse.com/video-effects/ai-clone-video)
 
 ### STORM trend: lead in white inside a crowd of black suits
 
@@ -1493,7 +1493,7 @@ The dancers drop into a deep, chaotic-looking but actually tightly choreographed
 The dancers continue the bowing / clutching / head-whip cycle two more times, then freeze in a mixed pose—some still bent, some half-risen, all looking strained.
 ```
 
-[Try it on Seadanse →](https://seadanse.com/prompts/viral-ai-video-prompts#clones)
+[Try it on Seadanse →](https://seadanse.com/video-effects/ai-clone-video)
 
 ### STORM trend remake: swap the central man for your own face
 
@@ -1786,7 +1786,7 @@ NO IDENTITY DRIFT.
 NO EXTRA VERSION OF <image_1>.
 ```
 
-[Try it on Seadanse →](https://seadanse.com/prompts/viral-ai-video-prompts#clones)
+[Try it on Seadanse →](https://seadanse.com/video-effects/ai-clone-video)
 
 ### Five-sentence character swap onto a reference video
 
@@ -1804,13 +1804,13 @@ Five short sentences: replace the main subject in @ video with the person in @ i
 Replace the main subject in @ video with the subject from @ image. Use @ image as the sole character identity reference. Strictly preserve the subject's appearance and facial features from @ image maintaining the same recognizable identity consistently throughout every frame. Preserve the background, camera motion, timing, and lighting from @ video. Keep everything else unchanged.
 ```
 
-[Try it on Seadanse →](https://seadanse.com/prompts/viral-ai-video-prompts#clones)
+[Try it on Seadanse →](https://seadanse.com/video-effects/ai-clone-video)
 
 ## Hotel Lobby AI Rap Duo
 
 Two people trade bars in a studio or a hotel lobby, face-swapped onto a reference clip or written from scratch.
 
-3 posts · [Try this effect on Seadanse →](https://seadanse.com/prompts/viral-ai-video-prompts#ai-rap-duo)
+3 posts · [Try this effect on Seadanse →](https://seadanse.com/video-effects/ai-rap-duo)
 
 ### Two-person rap performance at a red car
 
@@ -1837,7 +1837,7 @@ Eye contact: Calm eyes half-closed, with an unhurried, languid gaze. Naturally s
 Match the character's appearance 100% to the reference image. Do not change any other elements. All appearing characters are Western/Caucasian only. Both perform singing and rapping with a Nigerian accent.
 ```
 
-[Try it on Seadanse →](https://seadanse.com/prompts/viral-ai-video-prompts#ai-rap-duo)
+[Try it on Seadanse →](https://seadanse.com/video-effects/ai-rap-duo)
 
 ### Newton and Einstein rap battle on a sci-fi stage
 
@@ -1853,7 +1853,7 @@ One paragraph: Newton raps about gravity and apples in a British accent, Einstei
 A high-energy rap battle between Isaac Newton and Albert Einstein on a futuristic sci-fi stage. The camera alternates between close-ups and dramatic wide shots as they diss each other with sharp lyrics. Newton, in a classic 17th-century outfit, raps with a British accent about gravity and apples. Einstein, with wild hair and a German accent, fires back about relativity and space-time. Their lip-sync is perfectly timed to the beat, and their facial expressions are intense and animated. The background pulses with neon lights and holographic equations, reacting to the rhythm. The crowd of AI-generated scientists cheers them on in sync with the music. It feels like a rap battle from another dimension.
 ```
 
-[Try it on Seadanse →](https://seadanse.com/prompts/viral-ai-video-prompts#ai-rap-duo)
+[Try it on Seadanse →](https://seadanse.com/video-effects/ai-rap-duo)
 
 ### One-line face swap onto a two-person rap clip
 
@@ -1871,7 +1871,7 @@ A single sentence: copy @Video1 exactly, with @Image1 as the guy on the left and
 Exactly the same clip as @Video1 but left guy singing is @Image1 right guy in clip is @Image2 every movement every gesture everything including sound is exactly the same
 ```
 
-[Try it on Seadanse →](https://seadanse.com/prompts/viral-ai-video-prompts#ai-rap-duo)
+[Try it on Seadanse →](https://seadanse.com/video-effects/ai-rap-duo)
 
 ## Ordinary-Day Home Video
 

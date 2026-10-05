@@ -2,7 +2,7 @@
 
 You stand still in the middle while a crowd of identical yous moves around you.
 
-4 posts · [Try this effect on Seadanse →](https://seadanse.com/prompts/viral-ai-video-prompts#clones)
+4 posts · [Try this effect on Seadanse →](https://seadanse.com/video-effects/ai-clone-video)
 
 ### STORM trend: a woman in black stands while the crowd moves
 
@@ -33,7 +33,7 @@ Dark, cold, mysterious lighting with deep shadows, realistic skin, hair, clothin
 Photorealistic live-action quality, cinematic composition, natural human movement; no animation, CGI look, duplicated woman, distorted bodies, excessive smoke, text, subtitles, or logos.
 ```
 
-[Try it on Seadanse →](https://seadanse.com/prompts/viral-ai-video-prompts#clones)
+[Try it on Seadanse →](https://seadanse.com/video-effects/ai-clone-video)
 
 ### STORM trend: lead in white inside a crowd of black suits
 
@@ -84,7 +84,7 @@ The dancers drop into a deep, chaotic-looking but actually tightly choreographed
 The dancers continue the bowing / clutching / head-whip cycle two more times, then freeze in a mixed pose—some still bent, some half-risen, all looking strained.
 ```
 
-[Try it on Seadanse →](https://seadanse.com/prompts/viral-ai-video-prompts#clones)
+[Try it on Seadanse →](https://seadanse.com/video-effects/ai-clone-video)
 
 ### STORM trend remake: swap the central man for your own face
 
@@ -377,7 +377,7 @@ NO IDENTITY DRIFT.
 NO EXTRA VERSION OF <image_1>.
 ```
 
-[Try it on Seadanse →](https://seadanse.com/prompts/viral-ai-video-prompts#clones)
+[Try it on Seadanse →](https://seadanse.com/video-effects/ai-clone-video)
 
 ### Five-sentence character swap onto a reference video
 
@@ -395,6 +395,6 @@ Five short sentences: replace the main subject in @ video with the person in @ i
 Replace the main subject in @ video with the subject from @ image. Use @ image as the sole character identity reference. Strictly preserve the subject's appearance and facial features from @ image maintaining the same recognizable identity consistently throughout every frame. Preserve the background, camera motion, timing, and lighting from @ video. Keep everything else unchanged.
 ```
 
-[Try it on Seadanse →](https://seadanse.com/prompts/viral-ai-video-prompts#clones)
+[Try it on Seadanse →](https://seadanse.com/video-effects/ai-clone-video)
 
 [← All effects](../README.md)

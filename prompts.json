@@ -1,5 +1,5 @@
 {
-  "refreshed": "2026-10-02",
+  "refreshed": "2026-10-05",
   "page": "https://seadanse.com/prompts/viral-ai-video-prompts",
   "effects": [
     {
@@ -324,7 +324,7 @@
       "id": "clones",
       "label": "STORM Clone Dance",
       "blurb": "You stand still in the middle while a crowd of identical yous moves around you.",
-      "tryUrl": "https://seadanse.com/prompts/viral-ai-video-prompts#clones",
+      "tryUrl": "https://seadanse.com/video-effects/ai-clone-video",
       "posts": [
         {
           "id": "x-2099707375943066094",
@@ -416,7 +416,7 @@
       "id": "ai-rap-duo",
       "label": "Hotel Lobby AI Rap Duo",
       "blurb": "Two people trade bars in a studio or a hotel lobby, face-swapped onto a reference clip or written from scratch.",
-      "tryUrl": "https://seadanse.com/prompts/viral-ai-video-prompts#ai-rap-duo",
+      "tryUrl": "https://seadanse.com/video-effects/ai-rap-duo",
       "posts": [
         {
           "id": "x-2088178083153223989",
