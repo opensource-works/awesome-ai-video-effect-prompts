@@ -10,7 +10,7 @@ Every prompt here was published by its creator on X, and every card links back t
 | Posts with the full prompt | **40** |
 | Creators credited | **33** |
 | Combined views on X | **11.3M** |
-| Last refreshed | 2026-10-12 |
+| Last refreshed | 2026-10-19 |
 
 ## Contents
 
